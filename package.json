@@ -1,0 +1,29 @@
+{
+  "name": "hello",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "6.18.0",
+    "bootstrap": "^3.3.7",
+    "classnames": "^2.2.5",
+    "create-react-class": "^15.5.2",
+    "formsy-material-ui": "^0.5.5",
+    "formsy-react": "^0.18.1",
+    "formsy-react-components": "^0.9.0",
+    "material-ui": "^0.16.7",
+    "meteor-node-stubs": "~0.2.0",
+    "moment": "^2.18.1",
+    "react": "^15.4.2",
+    "react-addons-pure-render-mixin": "^15.4.2",
+    "react-dom": "^15.5.4",
+    "react-input-range": "^1.1.2",
+    "react-meteor-data": "^0.2.10",
+    "react-mounter": "^1.2.0",
+    "react-slider": "^0.7.0",
+    "react-tap-event-plugin": "^2.0.1",
+    "react-typewriter": "^0.4.1",
+    "underscore": "^1.8.3"
+  }
+}
