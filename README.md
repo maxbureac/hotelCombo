@@ -10,6 +10,10 @@ The idea is to build a tool to help make distributing a group of guests to diffe
 This web application is not deployed yet and can only run on a local machine for now.
 ### Dependencies
 ### How to run
+```shell
+meteor npm install
+meteor
+```
 
 ## Resources
 ### Presentation (slides/videos)
