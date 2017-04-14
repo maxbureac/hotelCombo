@@ -11,8 +11,10 @@ class App extends Component {
                 primary1Color: "#F75191",
                 accent1Color: "#F75191",
                 pickerHeaderColor: "#F75191",
+                textColor: "#9B9B9B"
             },
             datePicker: {
+                fontFamily: "Raleway",
                 selectColor: "#F75191",
             },
         });

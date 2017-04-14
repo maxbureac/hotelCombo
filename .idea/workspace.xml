@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61f4cb03-669e-472d-bffa-f6bc1693237c" name="Default" comment="" />
+    <list default="true" id="61f4cb03-669e-472d-bffa-f6bc1693237c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imports/ui/Hotel.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/main.less" afterPath="$PROJECT_DIR$/client/main.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imports/ui/App.jsx" afterPath="$PROJECT_DIR$/imports/ui/App.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imports/ui/Home.jsx" afterPath="$PROJECT_DIR$/imports/ui/Home.jsx" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,12 +26,14 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="Home.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/imports/ui/Home.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-              <folding />
+            <state relative-caret-position="273">
+              <caret line="302" column="30" lean-forward="true" selection-start-line="302" selection-start-column="30" selection-end-line="302" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -41,6 +51,9 @@
       <find>console.lo</find>
       <find>console.log</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -76,12 +89,13 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/imports/startup/client/startup.js" />
         <option value="$PROJECT_DIR$/client/main.html" />
-        <option value="$PROJECT_DIR$/imports/ui/App.jsx" />
-        <option value="$PROJECT_DIR$/client/main.less" />
         <option value="$PROJECT_DIR$/imports/startup/server/startup.js" />
         <option value="$PROJECT_DIR$/imports/api/api.js" />
-        <option value="$PROJECT_DIR$/imports/ui/Home.jsx" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/imports/ui/App.jsx" />
+        <option value="$PROJECT_DIR$/imports/ui/Hotel.jsx" />
+        <option value="$PROJECT_DIR$/client/main.less" />
+        <option value="$PROJECT_DIR$/imports/ui/Home.jsx" />
       </list>
     </option>
   </component>
@@ -116,6 +130,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -131,7 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -141,6 +155,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="hotelCombo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotelCombo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotelCombo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -259,6 +291,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -278,14 +311,15 @@
     <property name="node.js.selected.package.standard" value="$PROJECT_DIR$/node_modules/eslint" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/packages/storm-admin" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays" />
       <recent name="$PROJECT_DIR$/imports/startup/client" />
       <recent name="$PROJECT_DIR$/packages/storm-admin/lib/ui/lib" />
       <recent name="$PROJECT_DIR$/packages" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/packages/storm-admin" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -422,20 +456,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65037000" />
+    <option name="totallyTimeSpent" value="78792000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="796" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45994833" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45994833" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -443,6 +477,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -459,388 +494,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/Base/BaseList.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2088">
-          <caret line="74" column="40" lean-forward="false" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
-          <folding>
-            <marker date="1489610695000" expanded="true" signature="7:159" ph="..." />
-            <marker date="1489610695000" expanded="true" signature="202:394" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="221:263" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="280:337" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="452:2090" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="477:619" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="522:559" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="645:674" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="690:724" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="742:778" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="791:1456" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="817:871" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="903:1276" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="946:1072" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="986:1056" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="1116:1266" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="1184:1250" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="1346:1385" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="1410:1448" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="1470:2088" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="1504:1586" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="1617:2071" ph="&lt;div/&gt;" />
-            <marker date="1489610695000" expanded="true" signature="1750:2052" ph="&lt;div/&gt;" />
-            <marker date="1489610695000" expanded="true" signature="1802:2029" ph="&lt;div/&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays/ArrayField.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays/ArrayField.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays/ArrayField.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/Base/BaseList.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1740">
-          <caret line="63" column="60" lean-forward="false" selection-start-line="63" selection-start-column="60" selection-end-line="63" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/Base/BaseList.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1740">
-          <caret line="63" column="60" lean-forward="false" selection-start-line="63" selection-start-column="60" selection-end-line="63" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imports/routing/routes.js" />
-    <entry file="file://$PROJECT_DIR$/client/main.css" />
-    <entry file="file://$PROJECT_DIR$/client/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="44" lean-forward="true" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imports/routing/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imports/routing/router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="44" lean-forward="false" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/prodevelsol.pub" />
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="29">
-            <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="22" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/storm-admin-tests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="56" lean-forward="false" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/changeUser.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/RecursiveDisplay.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays/BoolField.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays/DateField.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays/NumberField.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays/TextField.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays/RecursiveField.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays/ObjectField.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays/ArrayField.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/main.server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/main.client.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/StormList.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/Base/BaseList.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="74" column="40" lean-forward="false" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
-          <folding>
-            <marker date="1489610695000" expanded="true" signature="7:159" ph="..." />
-            <marker date="1489610695000" expanded="true" signature="202:394" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="221:263" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="280:337" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="452:2090" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="477:619" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="522:559" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="645:674" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="690:724" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="742:778" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="791:1456" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="817:871" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="903:1276" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="946:1072" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="986:1056" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="1116:1266" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="1184:1250" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="1346:1385" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="1410:1448" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="1470:2088" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="1504:1586" ph="{...}" />
-            <marker date="1489610695000" expanded="true" signature="1617:2071" ph="&lt;div/&gt;" />
-            <marker date="1489610695000" expanded="true" signature="1750:2052" ph="&lt;div/&gt;" />
-            <marker date="1489610695000" expanded="true" signature="1802:2029" ph="&lt;div/&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/storm-admin/package.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="35" />
-          <folding>
-            <marker date="1487070620000" expanded="true" signature="17:482" ph="{&quot;name&quot;: 'cultofcoders:storm-admin'...}" />
-            <marker date="1487070620000" expanded="true" signature="311:449" ph="//..." />
-            <marker date="1487070620000" expanded="true" signature="515:833" ph="{...}" />
-            <marker date="1487070620000" expanded="true" signature="572:709" ph="[...]" />
-            <marker date="1487070620000" expanded="true" signature="867:1007" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imports/api/donuts/expose.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imports/api/donuts/collection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imports/api/exposures.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <marker date="1492090783000" expanded="true" signature="0:766" ph="{&quot;name&quot;: &quot;hello&quot;...}" />
-            <marker date="1492090783000" expanded="true" signature="53:84" ph="{&quot;start&quot;: &quot;meteor run&quot;...}" />
-            <marker date="1492090783000" expanded="true" signature="104:764" ph="{&quot;babel-runtime&quot;: &quot;6.18.0&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/material-ui/styles/baseThemes/darkBaseTheme.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1486937328000" expanded="true" signature="60:77" ph="{...}" />
-            <marker date="1486937328000" expanded="true" signature="389:1159" ph="{&quot;spacing&quot;: _spacing2.default...}" />
-            <marker date="1486937328000" expanded="true" signature="468:1157" ph="{&quot;primary1Color&quot;: _colors.cyan700...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imports/startup/client/startup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="59" lean-forward="false" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
-          <folding>
-            <marker date="1492090804000" expanded="true" signature="73:281" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="82" lean-forward="false" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
-          <folding>
-            <marker date="1492093074000" expanded="true" signature="5:509" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imports/startup/server/startup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding>
-            <marker date="1492095413000" expanded="true" signature="7:70" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/main.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <marker date="1492094045000" expanded="true" signature="5:45" ph="{...}" />
-            <marker date="1492094045000" expanded="true" signature="54:96" ph="{...}" />
-            <marker date="1492094045000" expanded="true" signature="103:142" ph="{...}" />
-            <marker date="1492094045000" expanded="true" signature="157:618" ph="{...}" />
-            <marker date="1492094045000" expanded="true" signature="201:237" ph="{...}" />
-            <marker date="1492094045000" expanded="true" signature="260:297" ph="{...}" />
-            <marker date="1492094045000" expanded="true" signature="326:360" ph="{...}" />
-            <marker date="1492094045000" expanded="true" signature="384:545" ph="{...}" />
-            <marker date="1492094045000" expanded="true" signature="575:616" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/imports/ui/App.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
           <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
           <folding>
-            <marker date="1492093295000" expanded="true" signature="7:201" ph="..." />
-            <marker date="1492093295000" expanded="true" signature="231:1059" ph="{...}" />
-            <marker date="1492093295000" expanded="true" signature="247:1057" ph="{...}" />
-            <marker date="1492093295000" expanded="true" signature="286:545" ph="{...}" />
-            <marker date="1492093295000" expanded="true" signature="309:453" ph="{&quot;primary1Color&quot;: &quot;##F75191&quot;...}" />
-            <marker date="1492093295000" expanded="true" signature="479:534" ph="{&quot;selectColor&quot;: &quot;##F75191&quot;...}" />
-            <marker date="1492093295000" expanded="true" signature="647:831" ph="&lt;div/&gt;" />
-            <marker date="1492093295000" expanded="true" signature="669:812" ph="&lt;div/&gt;" />
-            <marker date="1492093295000" expanded="true" signature="873:1040" ph="&lt;MuiThemeProvider/&gt;" />
-            <marker date="1492093295000" expanded="true" signature="941:1008" ph="&lt;div/&gt;" />
-            <marker date="1492093295000" expanded="true" signature="1109:1125" ph="{...}" />
+            <marker date="1492160692000" expanded="true" signature="7:201" ph="..." />
+            <marker date="1492160692000" expanded="true" signature="231:1135" ph="{...}" />
+            <marker date="1492160692000" expanded="true" signature="247:1133" ph="{...}" />
+            <marker date="1492160692000" expanded="true" signature="286:621" ph="{...}" />
+            <marker date="1492160692000" expanded="true" signature="309:490" ph="{&quot;primary1Color&quot;: &quot;##F75191&quot;...}" />
+            <marker date="1492160692000" expanded="true" signature="516:610" ph="{&quot;fontFamily&quot;: &quot;Raleway&quot;...}" />
+            <marker date="1492160692000" expanded="true" signature="723:907" ph="&lt;div/&gt;" />
+            <marker date="1492160692000" expanded="true" signature="745:888" ph="&lt;div/&gt;" />
+            <marker date="1492160692000" expanded="true" signature="949:1116" ph="&lt;MuiThemeProvider/&gt;" />
+            <marker date="1492160692000" expanded="true" signature="1017:1084" ph="&lt;div/&gt;" />
+            <marker date="1492160692000" expanded="true" signature="1185:1201" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -874,42 +543,7 @@
         <state relative-caret-position="110">
           <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
-            <marker date="1492106315000" expanded="false" signature="7:238" ph="..." />
-            <marker date="1492106315000" expanded="true" signature="290:4971" ph="{...}" />
-            <marker date="1492106315000" expanded="true" signature="310:511" ph="{...}" />
-            <marker date="1492106315000" expanded="true" signature="350:504" ph="{...}" />
-            <marker date="1492106315000" expanded="true" signature="427:494" ph="{...}" />
-            <marker date="1492106315000" expanded="true" signature="538:740" ph="{...}" />
-            <marker date="1492106315000" expanded="true" signature="596:732" ph="{...}" />
-            <marker date="1492106315000" expanded="true" signature="620:722" ph="{...}" />
-            <marker date="1492106315000" expanded="true" signature="652:706" ph="{...}" />
-            <marker date="1492106315000" expanded="true" signature="764:950" ph="{...}" />
-            <marker date="1492106315000" expanded="true" signature="789:838" ph="{...}" />
-            <marker date="1492106315000" expanded="true" signature="902:942" ph="{...}" />
-            <marker date="1492106315000" expanded="true" signature="965:4969" ph="{...}" />
-            <marker date="1492106315000" expanded="true" signature="996:4952" ph="&lt;div/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="1043:1481" ph="&lt;div/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="1097:1458" ph="&lt;div/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="1143:1431" ph="&lt;div/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="1197:1400" ph="&lt;div/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="1257:1365" ph="&lt;div/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="1498:4933" ph="&lt;div/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="1546:4910" ph="&lt;div/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="1603:4883" ph="&lt;Formsy.Form/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="1690:2805" ph="&lt;div/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="1744:2165" ph="&lt;div/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="1826:2126" ph="&lt;FormsyText/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="2198:2770" ph="&lt;div/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="2280:2731" ph="&lt;FormsyText/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="2834:3861" ph="&lt;div/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="2888:3340" ph="&lt;div/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="2970:3301" ph="&lt;FormsyDate/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="3373:3826" ph="&lt;div/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="3455:3787" ph="&lt;FormsyDate/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="3890:4590" ph="&lt;div/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="3944:4555" ph="&lt;div/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="4041:4516" ph="&lt;InputRange/&gt;" />
-            <marker date="1492106315000" expanded="true" signature="4619:4844" ph="&lt;div/&gt;" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -919,6 +553,257 @@
         <state relative-caret-position="29">
           <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/Base/BaseList.jsx" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays/ArrayField.jsx" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays/ArrayField.jsx" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays/ArrayField.jsx" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/Base/BaseList.jsx" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/Base/BaseList.jsx" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/imports/routing/routes.js" />
+    <entry file="file://$PROJECT_DIR$/client/main.css" />
+    <entry file="file://$PROJECT_DIR$/client/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="44" lean-forward="true" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imports/routing/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imports/routing/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="44" lean-forward="false" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/prodevelsol.pub" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/README.md" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/storm-admin-tests.js" />
+    <entry file="file://$PROJECT_DIR$/changeUser.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/RecursiveDisplay.jsx" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays/BoolField.jsx" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays/DateField.jsx" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays/NumberField.jsx" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays/TextField.jsx" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays/RecursiveField.jsx" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays/ObjectField.jsx" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/FieldDisplays/ArrayField.jsx" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/main.server.js" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/main.client.js" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/lib/StormList.jsx" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/lib/ui/Base/BaseList.jsx" />
+    <entry file="file://$PROJECT_DIR$/packages/storm-admin/package.js" />
+    <entry file="file://$PROJECT_DIR$/imports/api/donuts/expose.js" />
+    <entry file="file://$PROJECT_DIR$/imports/api/donuts/collection.js" />
+    <entry file="file://$PROJECT_DIR$/imports/api/exposures.js" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <marker date="1492090783000" expanded="true" signature="0:766" ph="{&quot;name&quot;: &quot;hello&quot;...}" />
+            <marker date="1492090783000" expanded="true" signature="53:84" ph="{&quot;start&quot;: &quot;meteor run&quot;...}" />
+            <marker date="1492090783000" expanded="true" signature="104:764" ph="{&quot;babel-runtime&quot;: &quot;6.18.0&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/material-ui/styles/baseThemes/darkBaseTheme.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imports/startup/client/startup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="59" lean-forward="false" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="82" lean-forward="false" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
+          <folding>
+            <marker date="1492093074000" expanded="true" signature="5:509" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imports/startup/server/startup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/map.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imports/ui/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1492160692000" expanded="true" signature="7:201" ph="..." />
+            <marker date="1492160692000" expanded="true" signature="231:1135" ph="{...}" />
+            <marker date="1492160692000" expanded="true" signature="247:1133" ph="{...}" />
+            <marker date="1492160692000" expanded="true" signature="286:621" ph="{...}" />
+            <marker date="1492160692000" expanded="true" signature="309:490" ph="{&quot;primary1Color&quot;: &quot;##F75191&quot;...}" />
+            <marker date="1492160692000" expanded="true" signature="516:610" ph="{&quot;fontFamily&quot;: &quot;Raleway&quot;...}" />
+            <marker date="1492160692000" expanded="true" signature="723:907" ph="&lt;div/&gt;" />
+            <marker date="1492160692000" expanded="true" signature="745:888" ph="&lt;div/&gt;" />
+            <marker date="1492160692000" expanded="true" signature="949:1116" ph="&lt;MuiThemeProvider/&gt;" />
+            <marker date="1492160692000" expanded="true" signature="1017:1084" ph="&lt;div/&gt;" />
+            <marker date="1492160692000" expanded="true" signature="1185:1201" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imports/api/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="40" column="96" lean-forward="true" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="96" />
+          <folding>
+            <marker date="1492105070000" expanded="true" signature="7:66" ph="..." />
+            <marker date="1492105070000" expanded="true" signature="82:2907" ph="{...}" />
+            <marker date="1492105070000" expanded="true" signature="126:1529" ph="{...}" />
+            <marker date="1492105070000" expanded="true" signature="746:1221" ph="{&quot;auth&quot;: &quot;hacker236:dMRw8yzW8A&quot;...}" />
+            <marker date="1492105070000" expanded="true" signature="810:1211" ph="{&quot;checkin&quot;: checkInDate...}" />
+            <marker date="1492105070000" expanded="true" signature="1620:1923" ph="{...}" />
+            <marker date="1492105070000" expanded="true" signature="1637:1917" ph="{...}" />
+            <marker date="1492105070000" expanded="true" signature="1976:2665" ph="{...}" />
+            <marker date="1492105070000" expanded="true" signature="2114:2186" ph="{...}" />
+            <marker date="1492105070000" expanded="true" signature="2192:2623" ph="{...}" />
+            <marker date="1492105070000" expanded="true" signature="2229:2613" ph="{...}" />
+            <marker date="1492105070000" expanded="true" signature="2279:2597" ph="{...}" />
+            <marker date="1492105070000" expanded="true" signature="2417:2497" ph="{...}" />
+            <marker date="1492105070000" expanded="true" signature="2727:2905" ph="{...}" />
+            <marker date="1492105070000" expanded="true" signature="2778:2864" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imports/ui/Hotel.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <marker date="1492168493000" expanded="true" signature="7:240" ph="..." />
+            <marker date="1492168493000" expanded="true" signature="293:2610" ph="{...}" />
+            <marker date="1492168493000" expanded="true" signature="309:2608" ph="{...}" />
+            <marker date="1492168493000" expanded="true" signature="408:2591" ph="&lt;div/&gt;" />
+            <marker date="1492168493000" expanded="true" signature="446:2572" ph="&lt;div/&gt;" />
+            <marker date="1492168493000" expanded="true" signature="500:2549" ph="&lt;div/&gt;" />
+            <marker date="1492168493000" expanded="true" signature="546:915" ph="&lt;div/&gt;" />
+            <marker date="1492168493000" expanded="true" signature="601:884" ph="&lt;div/&gt;" />
+            <marker date="1492168493000" expanded="true" signature="655:849" ph="&lt;div/&gt;" />
+            <marker date="1492168493000" expanded="true" signature="940:2522" ph="&lt;div/&gt;" />
+            <marker date="1492168493000" expanded="true" signature="1009:1121" ph="&lt;h4/&gt;" />
+            <marker date="1492168493000" expanded="true" signature="1150:2348" ph="&lt;div/&gt;" />
+            <marker date="1492168493000" expanded="true" signature="1220:1843" ph="&lt;div/&gt;" />
+            <marker date="1492168493000" expanded="true" signature="1288:1425" ph="&lt;div/&gt;" />
+            <marker date="1492168493000" expanded="true" signature="1462:1627" ph="&lt;div/&gt;" />
+            <marker date="1492168493000" expanded="true" signature="1664:1804" ph="&lt;div/&gt;" />
+            <marker date="1492168493000" expanded="true" signature="1876:2313" ph="&lt;div/&gt;" />
+            <marker date="1492168493000" expanded="true" signature="1943:2097" ph="&lt;div/&gt;" />
+            <marker date="1492168493000" expanded="true" signature="2134:2274" ph="&lt;div/&gt;" />
+            <marker date="1492168493000" expanded="true" signature="2377:2491" ph="&lt;div/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="82" column="21" lean-forward="false" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
+          <folding>
+            <marker date="1492171301000" expanded="true" signature="5:45" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="54:96" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="103:160" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="177:2005" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="214:343" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="265:339" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="360:471" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="488:1118" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="536:576" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="601:683" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="714:842" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="868:1037" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="1069:1114" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="1133:2003" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="1407:1756" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="1770:1999" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="1808:1854" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="1884:1993" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="2023:3773" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="2141:2244" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="2254:3771" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="2359:2742" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="2478:2736" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="2761:3767" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="2832:2935" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="2963:3662" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="3030:3541" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="3108:3206" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="3226:3412" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="3433:3531" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="3564:3654" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="3684:3761" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="3790:5244" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="3908:5242" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="4423:4456" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="4470:5092" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="5105:5238" ph="{...}" />
+            <marker date="1492171301000" expanded="true" signature="5141:5232" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imports/ui/Home.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="302" column="30" lean-forward="true" selection-start-line="302" selection-start-column="30" selection-end-line="302" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
